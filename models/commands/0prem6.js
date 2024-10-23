@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "welcome",
     version: "1.1.1",
 	hasPermssion: 0,
-	credits: "PREM BABU", 
+	credits: "FAIZU", 
 	description: "Just Respond",
 	commandCategory: "no prefix",
     cooldowns: 5, 
